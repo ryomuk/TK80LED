@@ -1,6 +1,5 @@
 # TK80LED
-TK-80 flavor LED board for ZK-80P
-TK-80互換機(ZK-80P)用LED表示盤
+TK-80互換機(ZK-80P)用LED表示盤(TK-80 flavor LED board for ZK-80P)
 
 ![](images/title.jpg)
 
