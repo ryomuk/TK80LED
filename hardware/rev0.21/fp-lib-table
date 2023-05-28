@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 00MyFootprint)(type KiCad)(uri ${KIPRJMOD}/00MyFootprint.pretty)(options "")(descr ""))
+  (lib (name MAX7219CNG)(type KiCad)(uri ${KIPRJMOD}/lib/MAX7219CNG)(options "")(descr ""))
+  (lib (name MAX7219CWGT)(type KiCad)(uri ${KIPRJMOD}/lib/MAX7219CWGT)(options "")(descr ""))
+)

@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN713
+D Single 7 segment LED, common anode
+K 7 segment LED
+$ENDCMP
+#
+$CMP TBD62083A
+D 8-Channel Sink Type Transistor Array, TTL and CMOS compatible, 500mA, 50V, DIP-18/SOP-18/SSOP-18/SOIC-18W
+K relays solenoids lamps steppers servos LEDs
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=29808&prodName=TBD62083APG
+$ENDCMP
+#
+$CMP TBD62785A
+D 8-Channel Low Active Source Type Transistor Array, TTL and CMOS compatible, 500mA, 50V, DIP-18/SOP-18/SSOP-18/SOIC-18W
+K relays solenoids lamps steppers servos LEDs
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=58399&prodName=TBD62785AFWG
+$ENDCMP
+#
+#End Doc Library
